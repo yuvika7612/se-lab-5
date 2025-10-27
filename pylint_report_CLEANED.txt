@@ -1,0 +1,11 @@
+************* Module inventory_system_cleaned
+inventory_system_cleaned.py:88:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_cleaned.py:90:24: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_cleaned.py:93:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_cleaned.py:96:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_cleaned.py:99:0: C0303: Trailing whitespace (trailing-whitespace)
+inventory_system_cleaned.py:105:0: C0304: Final newline missing (missing-final-newline)
+inventory_system_cleaned.py:52:12: W0603: Using the global statement (global-statement)
+
+-----------------------------------
+Your code has been rated at 8.87/10
